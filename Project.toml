@@ -1,0 +1,7 @@
+name = "GLMMakie"
+uuid = "e26967a4-6748-4f56-a9ed-e39ff3de07aa"
+authors = []
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
